@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, my name is Inez👋
 
-<!--
-**inezamanda/inezamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology
 
-Here are some ideas to get you started:
+Here you'll find some of my works, although unfortunately there are some confidential one which I am not able to publish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also look my contributions on
+<a href="https://gitlab.com/inezamanda">my gitlab <img width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+
+🔭 I’m currently working on some **WEB DEVELOPMENT** projects as a backend developer. 
+
+
+📫 How to reach me :
+
+<a href="https://www.linkedin.com/in/inezamanda/" target="_blank">
+  <img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/144/000000/linkedin.png"/>
+</a>
+<a href="mailto:inez.amanda16@gmail.com" target="_blank">
+  <img align="left" alt="email" width="30px" src="https://img.icons8.com/fluent/48/000000/apple-mail.png"/>
+</a>
+<br>
+<br>
+     
+## GITHUB STATS 📈
+![Inez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inezamanda&show_icons=true&theme=omni&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inezamanda&layout=compact&theme=omni&hide_border=true)
