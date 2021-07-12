@@ -20,7 +20,6 @@ You can also look my contributions on
 </a>
 <br>
 <br>
-     
-## GITHUB STATS 📈
-![Inez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inezamanda&show_icons=true&theme=omni&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inezamanda&layout=compact&theme=omni&hide_border=true)
+
+![Inez's GitHub stats](https://github-readme-stats.vercel.app/api?username=inezamanda&count_private=true&show_icons=true&theme=omni&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inezamanda&langs_count=8&layout=compact&theme=omni&hide_border=true)
