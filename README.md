@@ -2,7 +2,7 @@
 
 I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology
 
-Here you'll find some of my works, although unfortunately there are some confidential one which I am not able to publish yet.
+Here you'll find some of my works mainly focusing on backend.
 
 You can also look my contributions on
 <a href="https://gitlab.com/inezamanda">my gitlab <img width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
