@@ -1,14 +1,14 @@
 ### Hi there, my name is Inez👋
 
-I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology
+I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I am on internship and currently working on some projects as a backend developer.
+
+My goto stack right now :
+- backend   : java spring
+- database  : postgreSQL, mongoDB
 
 Here you'll find some of my works mainly focusing on backend.
-
 You can also look my contributions on
-<a href="https://gitlab.com/inezamanda">my gitlab <img width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
-
-🔭 I’m currently working on some **WEB DEVELOPMENT** projects as a backend developer. 
-
+<a href="https://gitlab.com/inezamanda">my gitlab <img width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a> 
 
 📫 How to reach me :
 
