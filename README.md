@@ -1,10 +1,12 @@
 ### Hi there, my name is Inez👋
 
-I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I am on internship and currently working on some projects as a backend developer.
+I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I am a fullstack developer at a banking company in Indonesia.
 
 My goto stack right now :
-- backend   : java spring
+- web : springboot, java web (jsp and servlet)
 - database  : postgreSQL, mongoDB
+
+Currently learning mobile app development with flutter.
 
 Here you'll find some of my works mainly focusing on backend.
 You can also look my contributions on
