@@ -6,7 +6,7 @@ My goto stack right now :
 - web : springboot, java web (jsp and servlet)
 - database  : postgreSQL, mongoDB
 
-Currently learning mobile app development with flutter.
+Currently learning mobile app development with swift.
 
 Here you'll find some of my works mainly focusing on backend.
 You can also look my contributions on
