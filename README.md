@@ -1,12 +1,12 @@
 ### Hi there, my name is Inez👋
 
-I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I am a fullstack developer at a banking company in Indonesia.
+I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I have experience on backend development using Java SpringBoot.
 
 My goto stack right now :
-- web : springboot, java web (jsp and servlet)
+- web : springboot, java web 
 - database  : postgreSQL, mongoDB
 
-Currently learning mobile app development with swift.
+Currently learning iOS Development with UIKit and SwiftUI.
 
 Here you'll find some of my works mainly focusing on backend.
 You can also look my contributions on
