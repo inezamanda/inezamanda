@@ -1,16 +1,14 @@
 ### Hi there, my name is Inez👋
 
-I'm a third year Informatics Student at Sepuluh Nopember Institute of Technology. I have experience on backend development using Java SpringBoot.
+I'm an Informatics Student at Sepuluh Nopember Institute of Technology. I have experience on backend development using Java SpringBoot.
 
 My goto stack right now :
 - web : springboot, java web 
-- database  : postgreSQL, mongoDB
+- mobile : swiftUI, UIKit
 
 Currently learning iOS Development with UIKit and SwiftUI.
 
-Here you'll find some of my works mainly focusing on backend.
-You can also look my contributions on
-<a href="https://gitlab.com/inezamanda">my gitlab <img width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a> 
+Here you'll find some of my works on backend and mobile development.
 
 📫 How to reach me :
 
