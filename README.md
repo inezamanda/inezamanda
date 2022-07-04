@@ -1,12 +1,10 @@
 ### Hi there, my name is Inez👋
 
-I'm an Informatics Student at Sepuluh Nopember Institute of Technology. I have experience on backend development using Java SpringBoot.
+I'm a student at Apple Developer Academy Cohort 2022. I have experiences on backend development using Java SpringBoot. Currently learning iOS Development with UIKit and SwiftUI.
 
 My goto stack right now :
 - web : springboot, java web 
 - mobile : swiftUI, UIKit
-
-Currently learning iOS Development with UIKit and SwiftUI.
 
 Here you'll find some of my works on backend and mobile development.
 
