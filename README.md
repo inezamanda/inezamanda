@@ -1,10 +1,10 @@
 ### Hi there, my name is Inez👋
 
-I'm a student at Apple Developer Academy Cohort 2022. I have experiences on backend development using Java SpringBoot. Currently learning iOS Development with UIKit and SwiftUI.
+I was a student of Apple Developer Academy Cohort 2022. I have experiences on iOS development with SwiftUI and UIKit and backend development using Java SpringBoot. As a student of Apple Developer Academy, I developed several iOS applications using CloudKit, MapKit, MessageKit, Keychain Access, Alamofire, Core Data, etc. My team and I have developed an app called [BeneFIT](https://apps.apple.com/id/app/benefit-make-friends-be-fit/id6444470891) which is available on the App Store. Be sure to check it out! 
 
 My goto stack right now :
-- web : springboot, java web 
 - mobile : swiftUI, UIKit
+- web : springboot, java web 
 
 Here you'll find some of my works on backend and mobile development.
 
